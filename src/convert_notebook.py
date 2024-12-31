@@ -4,7 +4,7 @@ import nbformat
 
 # Caminho absoluto para o diretório de notebooks
 project_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))  # Diretório raiz do projeto
-notebook_filename = os.path.join(project_dir, "notebooks", "1. EDA.ipynb")  # Caminho absoluto para o notebook
+notebook_filename = os.path.join(project_dir, "notebooks", "2. MODELING.ipynb")  # Caminho absoluto para o notebook
 markdown_dir = os.path.join(project_dir, "markdown")  # Diretório onde o arquivo .md será salvo
 
 # Caminho para o arquivo Markdown
