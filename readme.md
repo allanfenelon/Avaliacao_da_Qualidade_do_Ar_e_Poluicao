@@ -32,4 +32,4 @@ O projeto utiliza métodos de análise estatística, visualizações exploratór
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/allanfenelon/Avaliacao_da_Qualidade_do_Ar_e_Poluicao.git
